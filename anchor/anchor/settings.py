@@ -78,6 +78,8 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'anchor.urls'
 
+DEFAULT_AUTO_FIELD = "django.db.models.AutoField"
+
 # Only required for Polaris SEP-24 anchors
 FORM_RENDERER = "django.forms.renderers.TemplatesSetting"
 

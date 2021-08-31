@@ -23,12 +23,6 @@ services:
       - ./anchor/data:/code/data
     command: pipenv run python anchor/manage.py watch_transactions
 # Un-comment if running a SEP-6 or SEP-24 on-ramp
-#  check_trustlines:
-#    container_name: "check_trustlines"
-#    build: .
-#    volumes:
-#      - ./anchor/data:/code/data
-#    command: pipenv run python anchor/manage.py check_trustlines --loop
 #  poll_pending_deposits:
 #    container_name: "poll_pending_deposits"
 #    build: .
