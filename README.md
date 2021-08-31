@@ -1,6 +1,6 @@
 # Polaris Project Template
 
-This project contains the minimum boilerplate code needed to run an anchor using [django-polaris](https://https://github.com/stellar/django-polaris) version 1.6.
+This project contains the minimum boilerplate code needed to run an anchor using [django-polaris](https://https://github.com/stellar/django-polaris) version 2.
 
 ## Installation
 
