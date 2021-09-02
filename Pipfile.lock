@@ -213,10 +213,10 @@
         },
         "django-polaris": {
             "hashes": [
-                "sha256:f254ffa7f7fb9238bfaa436eeed438708179b75ed09753629df62984ae77d005"
+                "sha256:6c51e0d36109aa999cda72d745e61eed9f9dc24898983ccd5fafc1e8026ec39a"
             ],
             "index": "pypi",
-            "version": "==2.0.0"
+            "version": "==2.0.1"
         },
         "djangorestframework": {
             "hashes": [
